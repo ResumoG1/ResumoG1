@@ -1,0 +1,93 @@
+.produto-container{
+  display:flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+@media screen and (max-width: 768px); {
+  .produto-container{
+    width: 100%;
+    flex-direction: column
+  }
+}
+
+img{
+  height: 310px;
+}
+
+strong{
+text-align: center
+}
+
+.tudo{
+  color: #B22222;
+  text-align: center;
+}
+
+.iu{
+  text-align: center;
+  position: center;
+  height: 220px;
+}
+
+.piu{
+  color: #B22222;
+  text-align: center;
+}
+
+.ty{
+  height: 180px;
+  text-align: center;
+}
+
+.ui{
+ text-align: center;
+}
+
+.as{
+  color: #B22222;
+  text-align: center;
+}
+
+.rt{
+  text-align: center;
+}
+
+.po{
+  text-align: center;
+}
+
+.hj{
+  color: limegreen;
+  position: absolute;
+  text-align: center;
+  left: 83px;
+}
+
+
+
+.vg{
+  height: 160px;
+}
+
+.leidiane{
+  height: 50px;
+}
+
+.gv{
+  height: 80px;
+}
+
+.leo{
+  height: 160px;
+  
+}
+
+.bn{
+  object-position: center
+}
+
+.fcc{
+  height: 100px;
+  text-align: center
+}
